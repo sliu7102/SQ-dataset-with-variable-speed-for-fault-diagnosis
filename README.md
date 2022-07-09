@@ -32,11 +32,21 @@ In this simulation experiment, we simulated a total of six faults, including inn
 
 
 
+Table . 1. Quantitative description of fault damage
+
+| Degree   | Label | Damage are(mm2) | Damage depth(mm) |
+| -------- | ----- | --------------- | ---------------- |
+| Mild     | 1     | 4               | 0.5              |
+| Moderate | 2     | 8               | 4                |
+| Severe   | 3     | 12              | 2                |
 
 
 
+## 3. Experimental setups
 
+We collected the vibration signals of the above six faulty bearings and the normal state (NC) bearings, for a total of seven different health states. Each experiment was collected for 15 seconds and consisted of a complete acceleration/deceleration process from a stationary state gradually accelerating to 3000 rpm, then remaining stable, and finally gradually decelerating to 0. We give here a set of vibration signal waveforms and corresponding speed variation curves for the normal class, inner ring mild and outer ring mild bearings, as shown in Figure 3. In this case, the acceleration and deceleration processes are realized by human control of the speed knob, so that more data under the same health condition can be obtained for performance testing by conducting multiple (ranging from 6 to 9) data acquisition experiments.
 
+It is important to note that we emphasize that this dataset was collected during a continuous variation of the rotational speed, rather than a general multi-speed dataset (composed of several different constant speed data). Compared to the task setting of learning from multiple constant speed data and implementing fault identification in another constant speed data, we believe that extracting features from continuously varying data and implementing fault identification is the true meaning of fault diagnosis under variable speed conditions.
 
 
 
