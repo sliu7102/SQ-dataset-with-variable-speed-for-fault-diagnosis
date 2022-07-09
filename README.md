@@ -14,4 +14,5 @@ Realizing fault diagnosis under variable speed conditions is not only significan
 
 
 
-![https://github.com/sliu7102/SQ-dataset-with-variable-speed-for-fault-diagnosis/blob/main/ReadMe/SQV%20test%20rig.png]()
+![](https://github.com/sliu7102/SQ-dataset-with-variable-speed-for-fault-diagnosis/blob/main/ReadMe/SQV%20test%20rig.png)
+
