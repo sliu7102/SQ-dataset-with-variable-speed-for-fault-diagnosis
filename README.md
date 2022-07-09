@@ -26,7 +26,7 @@ The structure of the test bench is shown in Figure 1, the test bench consists of
 
 
 
-![Fig. 1. SQV test rig](https://github.com/sliu7102/SQ-dataset-with-variable-speed-for-fault-diagnosis/blob/main/ReadMe/SQV%20test%20rig.png title='Fig. 1. SQV test rig')
+![Fig. 1. SQV test rig](https://github.com/sliu7102/SQ-dataset-with-variable-speed-for-fault-diagnosis/blob/main/ReadMe/SQV%20test%20rig.png  'Fig. 1. SQV test rig')
 
 In this simulation experiment, we simulated a total of six faults, including inner-ring faults (IF) and outer-ring faults (OF) at three different damage levels, respectively. As shown in Figure 2, we quantified the degree of fault damage by machining artificially created single-point defects with different damage diameters and depths, as shown in Table 1. The quantitative results are verified on the bearing failure degree analysis algorithm based on the second generation wavelet packet analysis and the shock pulse method.
 
